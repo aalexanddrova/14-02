@@ -1,4 +1,4 @@
-k = 0
+k = 1
 while k <= 8:
-  print( 1+k )
-  k += 2
+  print ( np.exp(log10(k**2))
+  k += 1
